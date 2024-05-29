@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "React State Management with Redux",
-      "date": "12 Feb 2019",
+      "date": "13 May 2014",
       "author": "Alice Johnson",
       "description": "Explore advanced state management techniques using Redux in React applications. Learn how to handle complex application states, asynchronous actions, and connect your components seamlessly.",
       "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
@@ -10,7 +10,7 @@
     {
       "id": 2,
       "title": "Mastering CSS-in-JS Libraries",
-      "date": "12 Feb 2019",
+      "date": "12 Feb 2012",
       "author": "Mark Williams",
       "description": "Dive into the world of CSS-in-JS solutions like styled-components and emotion. Discover how to write modular, scoped styles directly in your JavaScript code, improving maintainability and performance.",
       "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
@@ -18,7 +18,7 @@
     {
       "id": 3,
       "title": "Server-Side Rendering in Next.js",
-      "date": "12 Feb 2019",
+      "date": "01 Feb 2023",
       "author": "Emily Lee",
       "description": "Learn how to implement SSR using Next.js for improved performance and SEO. Explore server-side rendering techniques, data fetching, and dynamic content rendering on the server before sending it to the client.",
       "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
@@ -26,7 +26,7 @@
     {
       "id": 4,
       "title": "Optimizing React Performance",
-      "date": "12 Feb 2019",
+      "date": "12 Feb 2024",
       "author": "David Brown",
       "description": "Discover best practices for optimizing React components and reducing rendering bottlenecks. Dive into topics like memoization, lazy loading, and efficient use of hooks to create lightning-fast user interfaces.",
       "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
@@ -34,7 +34,7 @@
     {
       "id": 5,
       "title": "Building Real-Time Chat Apps with Firebase and React",
-      "date": "12 Feb 2019",
+      "date": "12 Mar 2019",
       "author": "Sarah Rodriguez",
       "description": "Create interactive chat applications using Firebase Realtime Database and React. Learn how to handle real-time data synchronization, user authentication, and message threading to build engaging chat experiences.",
       "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"

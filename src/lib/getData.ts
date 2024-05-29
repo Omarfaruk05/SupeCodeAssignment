@@ -1,9 +1,8 @@
-export async function getData(url: string) {
-  const res = await fetch(url);
+import fs from "fs";
+import path from "path";
 
-  if (!res.ok) {
-    throw new Error("Failed to fetch data");
-  }
-
-  return res.json();
+export function getData(endpoint: string) {
+  const filePath = path.join(process.cwd(), endpoint);
+  const jsonData = fs.readFileSync(filePath, "utf-8");
+  return JSON.parse(jsonData);
 }

@@ -13,7 +13,15 @@ interface IBlogs {
 }
 
 export default async function BlogPage() {
-  const blogs: IBlogs[] = await getData("http://localhost:3000/data.json");
+  const blogs: IBlogs[] = await getData("/public/data.json");
+
+  if (!blogs) {
+    return (
+      <div className="flex justify-center items-center h-[80vh]">
+        <h1 className="text-4xl text-cente">Loading</h1>
+      </div>
+    );
+  }
 
   return (
     <Container>
@@ -21,15 +29,15 @@ export default async function BlogPage() {
       <h1 className="font-bold text-4xl my-12 dark:text-white">Blog</h1>
 
       {/* blogs  */}
-      {blogs?.map((blog, index) => (
+      {blogs?.map((blog) => (
         <>
           <div
             className="hover:shadow-lg hover:dark:shadow-gray-500 p-2 rounded-md md:flex gap-4 mt-8 mb-2 dark:text-white"
-            key={index}
+            key={blog?.id}
           >
             <div className="overflow-hidden">
               <img
-                className="h-full w-full hover:scale-150 transition delay-75 "
+                className="h-full w-full md:w-72 hover:scale-150 transition delay-75 "
                 src={blog.thumbnail}
                 alt="blog_photo"
               />
