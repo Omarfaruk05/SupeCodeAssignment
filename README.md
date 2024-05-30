@@ -10,7 +10,8 @@
 
 ### step-2 (type this in your project directory terminal for install all dependency.)
 
-        npm i / yarn
+        npm i
+        yarn
 
 ## Script that run for this project
 
