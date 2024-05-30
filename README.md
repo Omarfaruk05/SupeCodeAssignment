@@ -6,17 +6,17 @@
 
 ### Step-1 (for clone git repo)
 
-git clone https://github.com/Omarfaruk05/SupeCodeAssignment
+        git clone https://github.com/Omarfaruk05/SupeCodeAssignment
 
 ### step-2 (type this in your project directory terminal for install all dependency.)
 
-npm i / yarn
+        npm i / yarn
 
 ## Script that run for this project
 
-"scripts": {
-"dev": "next dev",
-"build": "next build",
-"start": "next start",
-"lint": "next lint"
-},
+        "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+        },
