@@ -1,4 +1,4 @@
-## SupeCode Assignment
+## SupeCode Assignment [Figma Link](https://www.figma.com/community/file/882879599442878081)
 
 ### In this project I have to complete the blogs section. By clicking into the blog navigation we can see the blogs. This project is created with NextJS + Typescript. TailwindCSS is used for styling and responsive. Framer motion is used for animation and icon from react icons.
 
