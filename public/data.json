@@ -13,7 +13,7 @@
       "date": "12 Feb 2012",
       "author": "Mark Williams",
       "description": "Dive into the world of CSS-in-JS solutions like styled-components and emotion. Discover how to write modular, scoped styles directly in your JavaScript code, improving maintainability and performance.",
-      "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
+      "thumbnail": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-500x313.png"
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "date": "01 Feb 2023",
       "author": "Emily Lee",
       "description": "Learn how to implement SSR using Next.js for improved performance and SEO. Explore server-side rendering techniques, data fetching, and dynamic content rendering on the server before sending it to the client.",
-      "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/1*kUKiJUFeCs4rKjjGNUtvUQ.png"
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "date": "12 Feb 2024",
       "author": "David Brown",
       "description": "Discover best practices for optimizing React components and reducing rendering bottlenecks. Dive into topics like memoization, lazy loading, and efficient use of hooks to create lightning-fast user interfaces.",
-      "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
+      "thumbnail": "https://isamatov.com/images/react-optimizing-performance/React%20performance%20optimization.png"
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "date": "12 Mar 2019",
       "author": "Sarah Rodriguez",
       "description": "Create interactive chat applications using Firebase Realtime Database and React. Learn how to handle real-time data synchronization, user authentication, and message threading to build engaging chat experiences.",
-      "thumbnail": "https://ittrainingclasses.in/redux-overveiw.png"
+      "thumbnail": "https://i.ytimg.com/vi/Dw4vF2nftAE/hqdefault.jpg"
     }
   ]
   
