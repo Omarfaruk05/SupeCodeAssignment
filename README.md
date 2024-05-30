@@ -12,6 +12,8 @@
 
         npm i
 
+## or
+
         yarn
 
 ## Script that run for this project
